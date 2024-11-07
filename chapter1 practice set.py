@@ -3,7 +3,7 @@
 
 # # Q1.print poem twinkle twinkle little star
 
-# In[2]:
+
 
 
 print("""Twinkle, twinkle, little star,
